@@ -1,0 +1,18 @@
+R 1024 720                          
+NO ./textures/texture_north.xpm
+EA ./textures/texture_east.xpm
+WE ./textures/texture_west.xpm
+SO ./textures/texture_south.xpm
+S  ./textures/aracnor.xpm
+
+C 255, 255, 255
+F 122, 122, 122     
+
+11111111
+10000001
+1000N001
+10000001
+10000001
+100N0001
+10000001
+11111111

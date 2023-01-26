@@ -1,0 +1,16 @@
+R 1024 720
+NO ./textures/wolftex/pics/greystone.png
+SO ./textures/wolftex/pics/mossy.png
+WE ./textures/wolftex/pics/wood.png
+EA ./textures/wolftex/pics/purplestone.png
+S ./textures/wolftex/pics/pillar.png
+F  255,1,0
+C  0,1,0
+
+1111111
+1000001
+1000001
+100N001
+1000001
+1000001
+1111111
