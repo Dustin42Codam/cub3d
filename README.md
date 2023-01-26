@@ -8,3 +8,4 @@ textures and sprites.
 ![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Dustin42Codam/cub3d/blob/22c7d5c159b35b8ff67bb83be60539c33d9995ea/cub3d.gif))
 
 [Hot reload animation]:https://github.com/Dustin42Codam/cub3d/blob/main/cub3d.gif
+lool
