@@ -68,8 +68,8 @@ norm:
 	@norminette $(SRC_DIR) $(INC_DIR)
 
 fclean: clean
-	@rm $(LIBFT_LIB)
-	@rm $(NAME)
+	@rm -f $(LIBFT_LIB)
+	@rm -f $(NAME)
 
 clean:
 	@rm -rf $(OBJ_DIR)/*
